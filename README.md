@@ -6,3 +6,7 @@ fanmade modifications to yttd, for a slightly nicer playing experience.
 ### to-do list
 - autosave
 - easier save file transfer
+- ability to change game language without downloading a whole different game
+- desktop app support for mac os & linux (launcher maybe?)
+### contributing
+if you have a suggestion, add it to the [to-do list](#to-do-list) and do a pull request.
