@@ -1,5 +1,5 @@
 # yttd-rev
-fanmade modifications to yttd, for a slightly nicer playing experience.
+enhanced yttd desktop client, for a more convenient playing experience.
 
 **this project is nowhere near complete. also, it's fanmade/unofficial.**
 
